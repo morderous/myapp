@@ -1,3 +1,5 @@
+Apps utilizados: ATOM & Git
+
 $ touch index.html														// cria arquivo na pasta
 $ git init																		// torna a pasta um repositor
 $ git --global user.name 'Lucas Hubes'				//Nome
