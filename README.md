@@ -12,6 +12,7 @@ $ git add .																		//adiciona tudo na pasta
 $ git commit 																	//commit nos arquivos sem mensagem
 																							//porem abre um menu. 'i' para editar
 																							//esc para sair e ':wq' para commitar
-$ git commit -m 'mensagem'									//commit com um breve resumo das mod
+$ git commit -m 'mensagem'										//commit com um breve resumo das mod
 $ git branch login														//cria uma branch chamada 'login'
-$ git checkout login													//cria e muda para a branch 'login'
+$ git checkout login													//muda para a branch 'login'
+$ git checkout -b login												//cria E muda para a branch 'login'
